@@ -1,0 +1,4 @@
+<Files .logs>
+deny from all
+</Files>
+Header set X-Robots-Tag "noindex, noarchive"
